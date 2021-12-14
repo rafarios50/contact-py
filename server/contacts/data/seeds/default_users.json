@@ -1,0 +1,29 @@
+[
+    {
+        "model": "contacts.User",
+        "pk": 1,
+        "fields": {
+          "fullName": "Lisa Simpson",
+          "password": "lisa123",
+          "username": "lisa"
+        }
+    },
+    {
+        "model": "contacts.User",
+        "pk": 2,
+        "fields": {
+          "fullName": "Bart Simpson",
+          "password": "bart123",
+          "username": "bart"
+        }
+    },
+    {
+        "model": "contacts.User",
+        "pk": 3,
+        "fields": {
+          "fullName": "Maggie Simpson",
+          "password": "maggie123",
+          "username": "maggie"
+        }
+    }
+]
