@@ -1,0 +1,2 @@
+class DuplicatedContactException(Exception):
+    pass
