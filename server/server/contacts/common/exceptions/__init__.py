@@ -1,5 +1,0 @@
-from .contactNotFoundException import ContactNotFoundException
-from .duplicatedContactException import DuplicatedContactException
-from .invalidConfirmationCode import InvalidConfirmationCode
-from .invalidCredentialsException import InvalidCredentialsException
-from .requiredFieldException import RequiredFieldException
